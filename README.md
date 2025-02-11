@@ -23,7 +23,7 @@ A full-stack Online Shop web application using Spring Boot 2 and Angular 7.
   - PostgreSQL
   - Maven
 
-*Frontend*
+*Frontend
   - Angular 7
   - Angular CLI
   - Bootstrap
