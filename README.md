@@ -13,7 +13,7 @@ A full-stack Online Shop web application using Spring Boot 2 and Angular 7.
 - Order management
 - Pagination
 ## Technology Stacks
-*Backend
+Backend
   - Java 11
   - Spring Boot 2.2
   - Spring Security
@@ -22,8 +22,7 @@ A full-stack Online Shop web application using Spring Boot 2 and Angular 7.
   - Hibernate
   - PostgreSQL
   - Maven
-
-*Frontend
+Frontend
   - Angular 7
   - Angular CLI
   - Bootstrap
